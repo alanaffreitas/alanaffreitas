@@ -2,7 +2,7 @@
 - 👀 I’m interested in games, art and technology.
 - 🌱 I’m currently learning object-oriented programming, game and narrative design.
 - 💞️ I’m looking to collaborate on game projects.
-- 📫 How to reach me:
+- 📫 How to reach me: <a href="linkedin.com.in/alanaffreitas/">Meu Linkedin.</a>
 
 
 
