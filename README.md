@@ -1,7 +1,7 @@
  <h2> <center> Hi, I'm Alana. </h2>
  
 - 👀 I’m interested in games, art and technology.
-- 🌱 I’m currently learning game design, narrative design and objected-oriented programming for Unity 3D.
+- 🌱 I’m currently learning game design, narrative design and objected-oriented programming.
 - 💞️ I’m looking to collaborate on game projects.
 - 📫 Find me on <a href="linkedin.com.in/alanaffreitas/">Linkedin.</a>
 
