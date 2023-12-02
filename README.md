@@ -1,9 +1,12 @@
- <h2> <center> Hi, I'm Alana. </h2>
- 
-- 👀 I’m interested in games, art and technology.
-- 🌱 I’m currently learning game design and game programming.
-- 💞️ I’m looking to collaborate on game projects.
-- 📫 Find me on <a href="linkedin.com.in/alanaffreitas/">Linkedin.</a>
+<div style="font-family: Arial, sans-serif; color: #333; background-color: #f2f2f2; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h2 style="color: #0A66C2;">🚀 Polymath-in-the-making</h2>
+    <p>💻 Computer Science student</p>
+    <p>📚 Literature lover</p>
+    <p>🕹️ Stubbornly designing games</p>
+    <p>🎨 Passionate about blending art, technology, and storytelling</p>
+    <a href="https://linkedin.com/in/alanaffreitas/" style="display: inline-block; background-color: #0A66C2; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-top: 10px;">Connect on LinkedIn</a>
+</div>
+
 
 
 
